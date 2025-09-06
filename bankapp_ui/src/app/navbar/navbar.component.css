@@ -1,0 +1,17 @@
+nav {
+  background: #007bff;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}

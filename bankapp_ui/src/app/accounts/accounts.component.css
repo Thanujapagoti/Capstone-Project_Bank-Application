@@ -1,0 +1,23 @@
+.accounts-wrapper {
+  padding: 20px;
+}
+
+.accounts-wrapper table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.accounts-wrapper th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.accounts-wrapper th {
+  background: #007bff;
+  color: #fff;
+}
+
+.accounts-wrapper tr:nth-child(even) {
+  background: #f2f2f2;
+}
